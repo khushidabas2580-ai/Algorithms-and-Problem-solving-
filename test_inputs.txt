@@ -1,0 +1,75 @@
+TASK 2:-
+
+------------------------------------
+MERGE SORT
+------------------------------------
+Input Size: 1000
+1000 999 998 997 996 995 994 993 992 991
+...
+10 9 8 7 6 5 4 3 2 1
+Runtime: 0.000000 seconds
+
+Input Size: 5000
+5000 4999 4998 4997 ...
+...
+5 4 3 2 1
+Runtime: 0.004000 seconds
+
+Input Size: 10000
+10000 9999 9998 ...
+...
+5 4 3 2 1
+Runtime: 0.010000 seconds 
+
+Input Size: 50000
+50000 49999 49998 49997 ...
+...
+5 4 3 2 1
+Runtime: 0.037000 seconds
+
+------------------------------------
+BINARY SEARCH
+------------------------------------
+Input Size : 1000
+Target     : 1000
+Found at Index : 999
+Runtime    : 0.00000000 seconds
+
+Input Size : 5000
+Target     : 5000
+Found at Index : 4999
+Runtime    : 0.00000000 seconds
+
+Input Size : 10000
+Target     : 10000
+Found at Index : 9999
+Runtime    : 0.00000000 seconds
+
+Input Size : 50000
+Target     : 50000
+Found at Index : 49999
+Runtime    : 0.00000000 seconds
+
+
+------------------------------------
+KNAPSACK
+------------------------------------
+Number of Items : 10
+Capacity        : 50
+Maximum Profit  : 426
+Runtime         : 0.000000 seconds
+
+Number of Items : 50
+Capacity        : 250
+Maximum Profit  : 1766
+Runtime         : 0.000000 seconds
+
+Number of Items : 100
+Capacity        : 500
+Maximum Profit  : 4053
+Runtime         : 0.001000 seconds
+
+Number of Items : 200
+Capacity        : 1000
+Maximum Profit  : 7223
+Runtime         : 0.004000 seconds
